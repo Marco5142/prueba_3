@@ -1,0 +1,6 @@
+Recibo de préstamo
+Nombre: Marco Candia
+ID del libro: 2130
+Fecha de préstamo: 12-12-2024
+Fecha de devolución: 12-12-2025
+
